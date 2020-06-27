@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.7">
+	<ConfigVersions>
+		<Metadata name="Catalog.ИнформацияПоИгре" id="af5606e2-744f-4a56-989f-c2a2e702ca46" configVersion="f398e892425f8d4bb3fe441031cbce4b00000000">
+			<Metadata name="Catalog.ИнформацияПоИгре.Attribute.ИграОкончена" id="4832c470-ea0b-4c2d-9c60-b5deae90c1d5"/>
+			<Metadata name="Catalog.ИнформацияПоИгре.Attribute.Крестик" id="48b8d818-ed44-4326-8be0-beab3c68dfed"/>
+			<Metadata name="Catalog.ИнформацияПоИгре.Attribute.Нолик" id="71e10412-f56b-4be1-98e8-8536847cb9c3"/>
+			<Metadata name="Catalog.ИнформацияПоИгре.Attribute.Победитель" id="be3fed0b-c82c-4133-9497-4d0495b34aaf"/>
+		</Metadata>
+		<Metadata name="CommonModule.НеИспользуетсяхСервер" id="4931d5f3-4135-4a14-8cc2-3d6497ddc957" configVersion="528613a270a652419733678b1c32583500000000"/>
+		<Metadata name="CommonModule.НеИспользуетсяхСервер.Module" id="4931d5f3-4135-4a14-8cc2-3d6497ddc957.0" configVersion="778eac6be6f6934d859e14ccb61b38f600000000"/>
+		<Metadata name="CommonModule.хСервер" id="73436d14-8e8a-4b68-b283-5bff4969a6e9" configVersion="3019144f7e6c79449b953b1680a1c9b500000000"/>
+		<Metadata name="CommonModule.хСервер.Module" id="73436d14-8e8a-4b68-b283-5bff4969a6e9.0" configVersion="7fb55fef1810d54e9409b2c4dd20ffe800000000"/>
+		<Metadata name="CommonTemplate.ШаблонДляНабора" id="24aa68ae-457e-4ac7-b8a3-e39dd5557614" configVersion="db1922d73ae555499dbd0eb952c1bf0300000000"/>
+		<Metadata name="CommonTemplate.ШаблонДляНабора.Template" id="24aa68ae-457e-4ac7-b8a3-e39dd5557614.0" configVersion="5ccb02489f1da248975cfdadee59764b00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="9788476a-d495-4e65-829c-8fd5bc78b2b6" configVersion="5c97927ff8a3a448aa2c7d8aaa79947800000000"/>
+		<Metadata name="Constant.БазовыйПутьКСерверу" id="4a33ff85-2f29-4a04-8f4a-53eef963cdc3" configVersion="1b6da21b2431fd41bca2bd4b0c3e183200000000"/>
+		<Metadata name="DataProcessor.КонсольЗапросов" id="c2bf67be-b58b-48b6-980f-e2f88dec9b2c" configVersion="3079f14181d9044a86a32fc6e46dc32b00000000">
+			<Metadata name="DataProcessor.КонсольЗапросов.TabularSection.Запросы.Attribute.ВремяВыполнения" id="06636e33-bd97-4f64-9d26-d93663b5cb52"/>
+			<Metadata name="DataProcessor.КонсольЗапросов.TabularSection.Запросы.Attribute.АдресХранилищаПланаЗапроса" id="06e47c46-ac1d-4f99-a685-53a7f36ce9ab"/>
+			<Metadata name="DataProcessor.КонсольЗапросов.TabularSection.Параметры.Attribute.ИдентификаторЗапроса" id="0ca191df-3aa6-4623-be6d-755300aadc4c"/>
+			<Metadata name="DataProcessor.КонсольЗапросов.TabularSection.Параметры" id="1627767f-839e-4231-9ef4-0df25bba0ae3"/>
+			<Metadata name="DataProcessor.КонсольЗапросов.Attribute.ПериодАвтосохранения" id="2b12096e-250c-431b-bde7-2562d9a3ba39"/>
+			<Metadata name="DataProcessor.КонсольЗапросов.TabularSection.Запросы.Attribute.Идентификатор" id="2f668d3f-5f84-48b3-bc2e-a097499e4e53"/>
+			<Metadata name="DataProcessor.КонсольЗапросов.TabularSection.Запросы.Attribute.Имя" id="3744e51f-52c2-4537-88bd-e834953b1b58"/>
+			<Metadata name="DataProcessor.КонсольЗапросов.Attribute.ДоступныеТипыДанных" id="4989f65f-f0e9-4924-a182-ff1fb23ad1bd"/>
+			<Metadata name="DataProcessor.КонсольЗапросов.TabularSection.Запросы" id="5481c0ed-15cf-444b-97b4-d327edc04b04"/>
+			<Metadata name="DataProcessor.КонсольЗапросов.Attribute.ВыводитьВРезультатахЗапросаЗначенияСсылок" id="5ead8fee-ac56-4ffe-b9e8-0cee569f79f4"/>
+			<Metadata name="DataProcessor.КонсольЗапросов.TabularSection.Запросы.Attribute.Текст" id="643ce86f-8d6c-4ca1-b003-05cda6f880e7"/>
+			<Metadata name="DataProcessor.КонсольЗапросов.Attribute.ЧередованиеЦветовВРезультатеЗапроса" id="6b65c102-5836-43fc-bfdd-87d1bd3427d4"/>
+			<Metadata name="DataProcessor.КонсольЗапросов.Attribute.ИспользоватьАвтосохранение" id="7f076bbe-c9f9-4536-a844-8cc95286135d"/>
+			<Metadata name="DataProcessor.КонсольЗапросов.TabularSection.Запросы.Attribute.КоличествоСтрок" id="80c460f3-bd00-4809-a8a6-6ddaf0f9711b"/>
+			<Metadata name="DataProcessor.КонсольЗапросов.Attribute.ИмяФайла" id="95a4bd6c-6881-4eb6-acfd-f725b8878ed2"/>
+			<Metadata name="DataProcessor.КонсольЗапросов.TabularSection.Параметры.Attribute.Значение" id="962b36ea-0619-47f2-aaf1-cb0b0e721770"/>
+			<Metadata name="DataProcessor.КонсольЗапросов.Attribute.ТипОбхода" id="a80d8803-aa39-4127-ad61-6399f071d9b0"/>
+			<Metadata name="DataProcessor.КонсольЗапросов.TabularSection.Параметры.Attribute.Тип" id="cdd56fbf-a378-40c9-a87d-81ab89e1e0d6"/>
+			<Metadata name="DataProcessor.КонсольЗапросов.TabularSection.Параметры.Attribute.Идентификатор" id="d60b1bb0-1048-438f-aeea-88743f0eabb1"/>
+			<Metadata name="DataProcessor.КонсольЗапросов.TabularSection.Запросы.Attribute.АдресРезультата" id="f3c954b5-1341-43ac-a48e-5995d40b9f9c"/>
+			<Metadata name="DataProcessor.КонсольЗапросов.TabularSection.Параметры.Attribute.Имя" id="f3ea5727-c5be-4716-94e1-67979e61b842"/>
+			<Metadata name="DataProcessor.КонсольЗапросов.TabularSection.Запросы.Attribute.АдресРезультатовЗапроса" id="f58aa8d7-e1e1-47a6-8d21-3c1629f6660a"/>
+			<Metadata name="DataProcessor.КонсольЗапросов.Attribute.ПутьКФормам" id="fd3194db-72c0-4cb4-867b-32a6d575b4fe"/>
+		</Metadata>
+		<Metadata name="DataProcessor.КонсольЗапросов.Form.ВыборЗапроса" id="d00de41b-cb49-4c39-958d-45719f06bdb8" configVersion="c9de1082417385458bc152b9ced11c2500000000"/>
+		<Metadata name="DataProcessor.КонсольЗапросов.Form.ВыборЗапроса.Form" id="d00de41b-cb49-4c39-958d-45719f06bdb8.0" configVersion="b6941bd11a01d24ca5fe4d8588a21adb00000000"/>
+		<Metadata name="DataProcessor.КонсольЗапросов.Form.Граница" id="8d7dea28-efb9-48f4-b818-794c9aac90d7" configVersion="6386d8927f78bb4eba3539fa14fcafa300000000"/>
+		<Metadata name="DataProcessor.КонсольЗапросов.Form.Граница.Form" id="8d7dea28-efb9-48f4-b818-794c9aac90d7.0" configVersion="98024f7b0d01704f8bdf8326454cd46400000000"/>
+		<Metadata name="DataProcessor.КонсольЗапросов.Form.МоментВремени" id="31afad5d-3d59-47af-a00e-8cc664614eb0" configVersion="66df2093fe18564390e06def1472e2d300000000"/>
+		<Metadata name="DataProcessor.КонсольЗапросов.Form.МоментВремени.Form" id="31afad5d-3d59-47af-a00e-8cc664614eb0.0" configVersion="fcab93e5b1fc3a46b0f81b69617a8f6c00000000"/>
+		<Metadata name="DataProcessor.КонсольЗапросов.Form.Настройки" id="60b7efa4-a22d-4d9e-83cd-08b61a0a0259" configVersion="a608ba31ee3e8a438ea695eef6e1386000000000"/>
+		<Metadata name="DataProcessor.КонсольЗапросов.Form.Настройки.Form" id="60b7efa4-a22d-4d9e-83cd-08b61a0a0259.0" configVersion="d9055c79170b844da9641b7bd27a01d100000000"/>
+		<Metadata name="DataProcessor.КонсольЗапросов.Form.ПланВыполненияЗапроса" id="bdfac2e2-a425-49a4-af0b-f7753e2a1afc" configVersion="6430cbc29bb7ef48b6f5749ad258d32400000000"/>
+		<Metadata name="DataProcessor.КонсольЗапросов.Form.ПланВыполненияЗапроса.Form" id="bdfac2e2-a425-49a4-af0b-f7753e2a1afc.0" configVersion="d2f4a31a6e8d8646adf56c297b3d653500000000"/>
+		<Metadata name="DataProcessor.КонсольЗапросов.Form.РезультатЗапроса" id="0f99c160-10e9-4ab1-9e2b-04315f926f7c" configVersion="8f758eac6342434897abe3400375ba9f00000000"/>
+		<Metadata name="DataProcessor.КонсольЗапросов.Form.РезультатЗапроса.Form" id="0f99c160-10e9-4ab1-9e2b-04315f926f7c.0" configVersion="117e79df5a292b47be937d5d9251502900000000"/>
+		<Metadata name="DataProcessor.КонсольЗапросов.Form.ТаблицаЗначений" id="6dfe7a3d-1dda-4c9e-aebd-88a1c084e5e7" configVersion="e1e8b85ed5994245a69b47784006265000000000"/>
+		<Metadata name="DataProcessor.КонсольЗапросов.Form.ТаблицаЗначений.Form" id="6dfe7a3d-1dda-4c9e-aebd-88a1c084e5e7.0" configVersion="921ed43b9a2b9046ae49905ba7be5f6900000000"/>
+		<Metadata name="DataProcessor.КонсольЗапросов.Form.ТекстЗапросаДляКонфигуратора" id="2bb07877-4d5b-4eb8-9f6b-dc95678a9611" configVersion="839ece35b837484089d4c2e98ebfa31f00000000"/>
+		<Metadata name="DataProcessor.КонсольЗапросов.Form.ТекстЗапросаДляКонфигуратора.Form" id="2bb07877-4d5b-4eb8-9f6b-dc95678a9611.0" configVersion="16c231676ba3f74696cdb64acec3379100000000"/>
+		<Metadata name="DataProcessor.КонсольЗапросов.Form.Форма" id="7751957e-a1a3-4200-9f6a-d16230c7340c" configVersion="3970a7f806b6b841ac7ac5eb73648e4200000000"/>
+		<Metadata name="DataProcessor.КонсольЗапросов.Form.Форма.Form" id="7751957e-a1a3-4200-9f6a-d16230c7340c.0" configVersion="c3301c1a087ef245ba03c5411734ffaf00000000"/>
+		<Metadata name="DataProcessor.КонсольЗапросов.Help" id="c2bf67be-b58b-48b6-980f-e2f88dec9b2c.1" configVersion="1d8ae2da903e9840855e643e631a851a00000000"/>
+		<Metadata name="DataProcessor.КонсольЗапросов.ObjectModule" id="c2bf67be-b58b-48b6-980f-e2f88dec9b2c.0" configVersion="2e36bae8060d774699e6f1ae9b244fd000000000"/>
+		<Metadata name="DataProcessor.КонсольЗапросов.Template.РезультатВыполненияЗапроса" id="c7d38d5a-2bc2-4738-af19-88feebdcdb01" configVersion="ef4b3a40dbf13d41b7d1a02718e7d37a00000000"/>
+		<Metadata name="DataProcessor.КонсольЗапросов.Template.РезультатВыполненияЗапроса.Template" id="c7d38d5a-2bc2-4738-af19-88feebdcdb01.0" configVersion="7a8096a7058d3448b5421c6ee86ae0ce00000000"/>
+		<Metadata name="DataProcessor.Тест" id="f217f50d-b39f-4920-b7de-42209a7728a2" configVersion="f970696cf90d5442845070078d014b7a00000000"/>
+		<Metadata name="DataProcessor.Тест.Form.Форма" id="e49bb0eb-21f4-4ffe-9e91-5d454415c020" configVersion="e3c0d112f4a8794e9087706ef808bc1900000000"/>
+		<Metadata name="DataProcessor.Тест.Form.Форма.Form" id="e49bb0eb-21f4-4ffe-9e91-5d454415c020.0" configVersion="437da76b9e84f543adc663eeea2e80ea00000000"/>
+		<Metadata name="Document.Документ1" id="275ba7f5-365b-4767-8faf-ce65509e39dc" configVersion="88074325082463478651f0f17501e19000000000"/>
+		<Metadata name="Enum.ВариантыХодов" id="68d9e88a-303b-4d74-85ef-b0195b489918" configVersion="4bafb308a818534a9028414327a94fb700000000">
+			<Metadata name="Enum.ВариантыХодов.EnumValue.Нолик" id="7a95348a-4224-4ac1-9ee3-b66309b82f44"/>
+			<Metadata name="Enum.ВариантыХодов.EnumValue.Крестик" id="d48e89c9-0112-4a83-9646-c0f7f286c3fb"/>
+		</Metadata>
+		<Metadata name="HTTPService.ЧерезШаблоны" id="87767b7f-db5a-4f32-b45c-3458f940c0bc" configVersion="1115ce5f94d5814995e45956322475fd00000000">
+			<Metadata name="HTTPService.ЧерезШаблоны.URLTemplate.ajax.Method.GET" id="1b9d916e-a05f-48af-9f8e-e2d04a18a024"/>
+			<Metadata name="HTTPService.ЧерезШаблоны.URLTemplate.Post.Method.POST" id="2957947a-465a-4f31-bf90-ac3006ffad4b"/>
+			<Metadata name="HTTPService.ЧерезШаблоны.URLTemplate.ajax" id="36a260ae-4f30-456d-a180-084bfb5df2e7"/>
+			<Metadata name="HTTPService.ЧерезШаблоны.URLTemplate.Post" id="3ba74011-77f2-4ce3-aeb9-d344a598dbd2"/>
+			<Metadata name="HTTPService.ЧерезШаблоны.URLTemplate.ajax.Method.POST" id="46f86733-5dd6-4897-9ba7-7f2dbfc0a534"/>
+			<Metadata name="HTTPService.ЧерезШаблоны.URLTemplate.ОсновнаяСтраница.Method.GET" id="558d596b-ce2d-46af-8e9d-de991685b1e6"/>
+			<Metadata name="HTTPService.ЧерезШаблоны.URLTemplate.ОсновнаяСтраница" id="55e3ee7e-cd70-4dec-959d-1e195fa87357"/>
+			<Metadata name="HTTPService.ЧерезШаблоны.URLTemplate.Post.Method.GET" id="65c1a716-bf03-47f2-9add-3d77f919334d"/>
+			<Metadata name="HTTPService.ЧерезШаблоны.URLTemplate.Игра.Method.GET" id="76ab8a45-b1e2-498b-9e85-ceaaf4444d40"/>
+			<Metadata name="HTTPService.ЧерезШаблоны.URLTemplate.Игра" id="9032fc38-1677-45e6-a09e-d5dea59143a2"/>
+			<Metadata name="HTTPService.ЧерезШаблоны.URLTemplate.Игра.Method.POST" id="98d10839-16cc-4286-9c09-e7e7866e32e7"/>
+			<Metadata name="HTTPService.ЧерезШаблоны.URLTemplate.ОсновнаяСтраница.Method.POST" id="b90624b3-2221-42e6-9243-22c83c8b597e"/>
+		</Metadata>
+		<Metadata name="HTTPService.ЧерезШаблоны.Module" id="87767b7f-db5a-4f32-b45c-3458f940c0bc.0" configVersion="357db804af46b74792d8c7134ce0955d00000000"/>
+		<Metadata name="HTTPService.ох" id="0ee03c3e-90fb-4623-b33b-a5975244a562" configVersion="561dcd45d98c3b4db49a87207b3cf82700000000">
+			<Metadata name="HTTPService.ох.URLTemplate.Data.Method.GET" id="09f4a5a5-2409-4ccc-9dce-49e8bf70d238"/>
+			<Metadata name="HTTPService.ох.URLTemplate.ОткрытиеИгры.Method.GET" id="1fbfd293-f40f-4c32-95b8-3caaddd7d152"/>
+			<Metadata name="HTTPService.ох.URLTemplate.СозданиеНовойИгры.Method.GET" id="23df3fc3-b6d4-40d4-9fdc-f861e5f608bd"/>
+			<Metadata name="HTTPService.ох.URLTemplate.СозданиеНовойИгры.Method.POST" id="2ab497b5-86b8-4197-a49e-6c6e1a8fbae7"/>
+			<Metadata name="HTTPService.ох.URLTemplate.Data" id="3bffd3a0-097e-474f-a303-de400b725e23"/>
+			<Metadata name="HTTPService.ох.URLTemplate.Data.Method.POST" id="53d9e380-e465-468c-a4f9-8085530b1c68"/>
+			<Metadata name="HTTPService.ох.URLTemplate.ПоказДанныхКлиенту" id="7faa4ff2-e742-4f60-b6ff-0730d636589f"/>
+			<Metadata name="HTTPService.ох.URLTemplate.ПоказДанныхКлиенту.Method.GET" id="8b981ded-b3f3-4672-8d80-1d7f730f4603"/>
+			<Metadata name="HTTPService.ох.URLTemplate.СозданиеНовойИгры" id="93029273-67fd-49cc-88a6-5b62f25692d2"/>
+			<Metadata name="HTTPService.ох.URLTemplate.ОткрытиеИгры" id="b0f25471-e076-4702-9465-83d8d201a038"/>
+			<Metadata name="HTTPService.ох.URLTemplate.ОткрытиеИгры.Method.POST" id="b287cc07-c43e-4456-b920-45e64eece9d9"/>
+			<Metadata name="HTTPService.ох.URLTemplate.ПоказДанныхКлиенту.Method.POST" id="b3cd96d0-68ac-4a14-a8a9-3a47aaa374c2"/>
+		</Metadata>
+		<Metadata name="HTTPService.ох.Module" id="0ee03c3e-90fb-4623-b33b-a5975244a562.0" configVersion="12dfc7637c34d34c95a368c7dbf4baa600000000"/>
+		<Metadata name="InformationRegister.Игра" id="cb27a1d3-4f56-421e-9817-133c5dab0e38" configVersion="0827666ed7c19c42ad86da5bfcf63a6300000000">
+			<Metadata name="InformationRegister.Игра.Resource.Значение" id="3265e787-34a3-42ed-948c-423b3b9b1f0f"/>
+			<Metadata name="InformationRegister.Игра.Dimension.ИнформацияПоИгре" id="9dffbdd6-94ca-447e-9531-e1b1986149e4"/>
+			<Metadata name="InformationRegister.Игра.Resource.НомерКолонкиТаблицы" id="a5cbd74c-fac7-405a-92d3-03c805f2f22f"/>
+			<Metadata name="InformationRegister.Игра.Resource.Ход" id="d3090c12-c4a0-465c-904f-966e386cc38d"/>
+			<Metadata name="InformationRegister.Игра.Resource.НомерСтрокиТаблицы" id="e304bb96-ecd5-4052-a1e6-c4328c4eb5a1"/>
+		</Metadata>
+		<Metadata name="InformationRegister.НеИспользуетсяИгра" id="2190cec8-987c-4ad3-ba11-7299dfee0272" configVersion="bd774ec3d5dbac4ca74dbbcf28245f9900000000">
+			<Metadata name="InformationRegister.НеИспользуетсяИгра.Resource.Пользователь1" id="20d963c5-daf3-4034-be9b-33326150516e"/>
+			<Metadata name="InformationRegister.НеИспользуетсяИгра.Dimension.guid" id="76d8272a-47bd-4f9a-bc4a-319231f4297b"/>
+			<Metadata name="InformationRegister.НеИспользуетсяИгра.Resource.ИмяИгры" id="8154d3d3-6df1-49ac-bfbc-ad9b91635e6a"/>
+			<Metadata name="InformationRegister.НеИспользуетсяИгра.Resource.ИграЗакрыта" id="8a1e29d9-5a89-40c6-90b2-f6cc22e72d36"/>
+			<Metadata name="InformationRegister.НеИспользуетсяИгра.Resource.Ход" id="a238ba7e-33b5-4941-a393-65431cfa4810"/>
+			<Metadata name="InformationRegister.НеИспользуетсяИгра.Resource.НомерСтрокиТаблицы" id="ae788ea9-9af2-41de-a586-c563b5987ca9"/>
+			<Metadata name="InformationRegister.НеИспользуетсяИгра.Resource.Пользователь2" id="b9497d10-2d55-4916-a3f9-7673b5764878"/>
+			<Metadata name="InformationRegister.НеИспользуетсяИгра.Resource.НомерКолонкиТаблицы" id="d6cb7b67-c109-4936-969d-41cbf91786b7"/>
+			<Metadata name="InformationRegister.НеИспользуетсяИгра.Resource.Значение" id="f03e61a5-043f-49bf-ad1f-a11b2f6587e3"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="009abd87-7475-49e8-9e49-4a4f93edd5c4" configVersion="59ac9c000700a7448a8770cf10b900ab00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
